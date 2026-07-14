@@ -1,1 +1,1 @@
-# mening-birinchi-loyiham
+# hw
